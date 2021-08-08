@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rp in a nutshell</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="background">
+
+<h1 class="title">RP in a nutshell</h1>
+
+
+    <div class="container-cards">
+        <div>
+            <div class="cards1">
+                <div class="front front1"><p>Что такое ЕРП?</p></div>
+                <div class="back"><p>1</p></div>
+            </div>
+        </div>
+        <div>
+            <div class="cards2">
+                <div class="front front2"><p>Зачем оно?</p></div>
+                <div class="back"><p>2</p></div>
+            </div>
+        </div>
+        <div>
+            <div class="cards3">
+                <div class="front front3"><p>В чём смысл?</p></div>
+                <div class="back"><p>3</p></div>
+            </div>
+        </div>
+        <div>
+            <div class="cards4">
+                <div class="front front4"><p>Что такое РП?</p></div>
+                <div class="back"><p>4</p></div>
+            </div>
+        </div>
+        <div>
+            <div class="cards5">
+                <div class="front front5"><p>Ник Хоука в Discord</p></div>
+                <div class="back"><p>5</p></div>
+            </div>
+        </div>
+        <div>
+            <div class="cards6">
+                <div class="front front6"><p>Ник Майи в Discord</p></div>
+                <div class="back"><p>6</p></div>
+            </div>
+        </div>
+        <div>
+            <div class="cards7">
+                <div class="front front7"><p>Ник Лания в Discord</p></div>
+                <div class="back"><p>7</p></div>
+            </div>
+        </div>
+        <div>
+            <div class="cards8">
+                <div class="front front8"><p>Ник Велориса в Discord</p></div>
+                <div class="back"><p>8</p></div>
+            </div>
+        </div>
+        <div>
+            <div class="cards9">
+                <div class="front front9"><p>Куда идёт Ари?</p></div>
+                <div class="back"><p>9</p></div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
