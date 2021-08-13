@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ase Converter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="title"><h1>Case Converter</h1></div>
+
+<textarea id="txt1"></textarea>
+<div class="buttons">
+    <div class="button1">
+        <button id="upper-case" onclick="return UPPERCASE();">Upper Case</button>
+    </div>
+    <div class="button2">
+        <button id="lower-case" onclick="return lowercase();">Lower Case</button>
+    </div>
+    <div class="button3">
+        <button id="proper-case" onclick="return Propcase();">Proper Case</button>
+    </div>
+    <div class="button4">
+        <button id="sentence-case" onclick="return sentenceCase();">Sentence Case</button>
+    </div>
+    <div class="button5">
+    <button id="save-text-file" onclick="return download();">Save Text File</button>
+    </div>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
